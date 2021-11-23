@@ -1,3 +1,5 @@
+// teste com lasços de repetição
+
 #include <stdio.h>
 
 int i = 0;
