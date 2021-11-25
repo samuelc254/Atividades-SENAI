@@ -3,8 +3,8 @@ Este repositório contem algumas das atividades feitas por mim durante o curso t
 
 ## LOP (Lógica de progamação)  
 - ### Atividades em linguagem C  
-  1- [Laços While](https://github.com/samuelc254/Atividades-SENAI/blob/main/Linguagem%20C/1-%20La%C3%A7os%20While.c)  
-  2- [Estruturas de comparação IF](https://github.com/samuelc254/Atividades-SENAI/blob/main/Linguagem%20C/2-%20Estruturas%20de%20compara%C3%A7%C3%A3o%20If.c)  
+  1- [Laços While](https://github.com/samuelc254/Atividades-SENAI/blob/main/LOP/Linguagem%20C/1-%20Laços%20While.c)  
+  2- [Estruturas de comparação IF](https://github.com/samuelc254/Atividades-SENAI/blob/main/LOP/Linguagem%20C/2-%20Estruturas%20de%20comparação%20If.c)  
 
 
 - ### Atividades no Scratch  
