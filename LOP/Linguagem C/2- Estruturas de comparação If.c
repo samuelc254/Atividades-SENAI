@@ -11,10 +11,8 @@ int main(void)
   while (1)
   {
     printf("--Programa para calcular média escolar--\n");
-    printf("Insira sua primeira nota: ");
-    scanf("%f", &n1);
-    printf("Insira sua segunda nota: ");
-    scanf("%f", &n2);
+    printf("Insira suas duas notas: ");
+    scanf("%f%f", &n1,&n2);
     m = (n1 + n2) / 2;
 
     if (m >= 50)
