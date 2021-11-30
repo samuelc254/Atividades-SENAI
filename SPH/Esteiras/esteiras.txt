@@ -1,0 +1,4 @@
+esteira 1
+- peça direto para caixa com temporizador
+esteira 2 
+- derrubar peça no primeiro slot 
