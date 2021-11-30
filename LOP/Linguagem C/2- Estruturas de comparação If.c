@@ -2,8 +2,7 @@
 
 #include <stdio.h>
 
-float n1, n2;
-float m; // declaração de variavel com valor real
+float m, n1, n2; // declaração de variavel com valor real
 
 int main(void)
 {
@@ -14,15 +13,14 @@ int main(void)
     printf("Insira suas duas notas: ");
     scanf("%f%f", &n1,&n2);
     m = (n1 + n2) / 2;
+    printf("Sua média é: %.2f\n", m);
 
     if (m >= 50)
     {
-      printf("Sua média é: %.2f\n", m);
       printf("parabéns você foi aprovado!\n\n");
     }
     else
     {
-      printf("Sua média é: %.2f\n", m);
       printf("parabéns você foi reprovado!\n\n");
     }
   }
