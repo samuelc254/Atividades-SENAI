@@ -12,8 +12,8 @@ Este repositório contem algumas das atividades feitas por mim durante o curso t
   1- [Craudinho no Senai](https://scratch.mit.edu/projects/579456648/)  
   
 ## SPH (Sistemas pneumáticos e hidráulicos)  
-Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o software de simulação hidráulica e pneumática Fluidsim da Festo  
-Com intuido de auxiliar na disciplina estou desenvolvendo um programa para desenhar esses circuitos automaticamente [Clique aqui](https://github.com/samuelc254/Electro-pneumatic-circuit-drawer) para ver!  
+Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o software de simulação hidráulica e pneumática Fluidsim
+- Com intuito de auxiliar na disciplina estou desenvolvendo um script que desenha esses circuitos [Clique aqui](https://github.com/samuelc254/Electro-pneumatic-circuit-drawer) para ver!  
   
 - ### Atividades  de pneumática
   1- [Maquinas](https://github.com/samuelc254/Atividades-SENAI/tree/main/SPH/Maquinas)  
