@@ -19,3 +19,4 @@ Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o soft
   1- [Maquinas](https://github.com/samuelc254/Atividades-SENAI/tree/main/SPH/Maquinas)  
   2- [Manipuladores](https://github.com/samuelc254/Atividades-SENAI/tree/main/SPH/Manipuladores)  
   3- [Esteiras](https://github.com/samuelc254/Atividades-SENAI/tree/main/SPH/Esteiras)  
+  https://youtu.be/KFOlISVIOaU
