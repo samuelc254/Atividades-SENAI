@@ -22,16 +22,16 @@ Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o soft
   4- [Vídeo sobre os circuitos](https://youtu.be/KFOlISVIOaU) 
   
 ## SDMI (Sistemas digitais  e microcontroladores)
-Os arquivos com a extensão `.xlsx` são atividades de tabela verdade feitos no exel
+Os arquivos com a extensão `.xlsx` são atividades de tabela verdade feitos no exel  
   
 - ### Atividades portas lógicas
-  - [Tabelas verdade](https://github.com/samuelc254/Atividades-SENAI/tree/main/SDMI/Tabelas%20verdade)
+  - [Tabelas verdade](https://github.com/samuelc254/Atividades-SENAI/tree/main/SDMI/Tabelas%20verdade)  
 
 ## CLPR (Controladores lógicos programáveis)
-As atividaes desenvolvidas nessa diciplina estão separadas em pastas, cada uma é um programa desenvolvido no MasterTool (codesys) algumas contém também um arquivo `.ct` que o circuito para simulação no software Fluidsim
+As atividaes desenvolvidas nessa diciplina estão separadas em pastas, cada uma é um programa desenvolvido no MasterTool (codesys) algumas contém também um arquivo `.ct` que o circuito para simulação no software Fluidsim  
   
 - ### Atividades no MasterTool
-  1- [Lader](https://github.com/samuelc254/Atividades-SENAI/tree/main/CLPR/Lader)
-  2- [ST (Structure Text)](https://github.com/samuelc254/Atividades-SENAI/tree/main/CLPR/ST)
+  1- [Lader](https://github.com/samuelc254/Atividades-SENAI/tree/main/CLPR/Lader)  
+  2- [ST (Structure Text)](https://github.com/samuelc254/Atividades-SENAI/tree/main/CLPR/ST)  
 
-## TPMC ()
+## TPMC ()  
