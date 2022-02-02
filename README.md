@@ -1,5 +1,5 @@
 # Atividades-Senai
-Este repositório contem algumas das atividades feitas por mim durante o curso técnico em mecatrônica no **SENAI**  
+Este repositório contem as atividades digitais feitas por mim durante o curso técnico em mecatrônica no **SENAI**  
 
 ## LOP (Lógica de progamação)  
 - ### Atividades em linguagem C  
@@ -9,7 +9,7 @@ Este repositório contem algumas das atividades feitas por mim durante o curso t
   4- [Estrutura switch case](https://github.com/samuelc254/Atividades-SENAI/blob/main/LOP/Linguagem%20C/4-%20Estrutura%20switch%20case.c)
    
 - ### Atividades no Scratch  
-  1- [Craudinho no Senai](https://scratch.mit.edu/projects/579456648/)  
+  - [Craudinho no Senai](https://scratch.mit.edu/projects/579456648/)  
   
 ## SPH (Sistemas pneumáticos e hidráulicos)  
 Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o software de simulação hidráulica e pneumática Fluidsim
@@ -20,3 +20,18 @@ Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o soft
   2- [Manipuladores](https://github.com/samuelc254/Atividades-SENAI/tree/main/SPH/Manipuladores)  
   3- [Esteiras](https://github.com/samuelc254/Atividades-SENAI/tree/main/SPH/Esteiras)  
   4- [Vídeo sobre os circuitos](https://youtu.be/KFOlISVIOaU) 
+  
+## SDMI (Sistemas digitais  e microcontroladores)
+Os arquivos com a extensão `.xlsx` são atividades de tabela verdade feitos no exel
+  
+- ### Atividades portas lógicas
+  - [Tabelas verdade](https://github.com/samuelc254/Atividades-SENAI/tree/main/SDMI/Tabelas%20verdade)
+
+## CLPR (Controladores lógicos programáveis)
+As atividaes desenvolvidas nessa diciplina estão separadas em pastas, cada uma é um programa desenvolvido no MasterTool (codesys) algumas contém também um arquivo `.ct` que o circuito para simulação no software Fluidsim
+  
+- ### Atividades no MasterTool
+  1- [Lader](https://github.com/samuelc254/Atividades-SENAI/tree/main/CLPR/Lader)
+  2- [ST (Structure Text)](https://github.com/samuelc254/Atividades-SENAI/tree/main/CLPR/ST)
+
+## TPMC ()
