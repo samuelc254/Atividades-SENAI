@@ -22,11 +22,11 @@ Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o soft
   4- [Vídeo sobre os circuitos](https://youtu.be/KFOlISVIOaU) 
   
 ## SDMI (Sistemas digitais  e microcontroladores)
-Os arquivos com a extensão `.xlsx` são atividades de tabela verdade feitos no exel e os `.DSN` são as respectivas portas lógicas feitas no software de simulação proteus(por exemplo o arquivo [Atividade 4.xlsx](https://github.com/samuelc254/Atividades-SENAI/tree/main/SDMI/Tabelas%20verdade/Atividade%204.xlsx) é a tabela verdade do da [atividade 4.DSN](https://github.com/samuelc254/Atividades-SENAI/tree/main/SDMI/Portas%20logicas/atividade%204.DNS))
+Os arquivos com a extensão `.xlsx` são atividades de tabela verdade feitos no exel e os `.DSN` são as respectivas portas lógicas feitas no software de simulação proteus (por exemplo o arquivo [Atividade 4.xlsx](https://github.com/samuelc254/Atividades-SENAI/blob/main/SDMI/Tabelas%20verdade/atividade%204.xlsx) é a tabela verdade do da [atividade 4.DSN](https://github.com/samuelc254/Atividades-SENAI/blob/main/SDMI/Portas%20L%C3%B3gicas/atividade%204.DSN))
   
 - ### Atividades portas lógicas
   - [Tabelas verdade](https://github.com/samuelc254/Atividades-SENAI/tree/main/SDMI/Tabelas%20verdade)  
-  - [Portas Lógicas](https://github.com/samuelc254/Atividades-SENAI/tree/main/SDMI/Portas%20Logicas)
+  - [Portas Lógicas](https://github.com/samuelc254/Atividades-SENAI/tree/main/SDMI/Portas%20L%C3%B3gicas)
 
 ## CLPR (Controladores lógicos programáveis)
 As atividaes desenvolvidas nessa diciplina estão separadas em pastas, cada uma é um programa desenvolvido no MasterTool (codesys) algumas contém também um arquivo `.ct` que o circuito para simulação no software Fluidsim  
