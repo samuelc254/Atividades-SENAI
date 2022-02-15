@@ -13,7 +13,7 @@ Este repositório contem as atividades digitais feitas por mim durante o curso t
   
 ## SPH (Sistemas pneumáticos e hidráulicos)  
 Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o software de simulação hidráulica e pneumática Fluidsim
-- Com intuito de auxiliar na disciplina estou desenvolvendo um script que desenha esses circuitos [Clique aqui](https://github.com/samuelc254/Electro-pneumatic-circuit-drawer) para ver!  
+- Com intuito de auxiliar na disciplina estou desenvolvendo uma API que desenha esses circuitos [Clique aqui](http://circuit-drawer.herokuapp.com/) para ver!  
   
 - ### Atividades  de pneumática
   1- [Maquinas](https://github.com/samuelc254/Atividades-SENAI/tree/main/SPH/Maquinas)  
