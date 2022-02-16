@@ -21,7 +21,7 @@ Os arquivos dessa matéria com a extensão `.ct` são arquivos destinados o soft
   3- [Esteiras](https://github.com/samuelc254/Atividades-SENAI/tree/main/SPH/Esteiras)  
   4- [Vídeo sobre os circuitos](https://youtu.be/KFOlISVIOaU) 
   
-## SDMI (Sistemas digitais  e microcontroladores)
+## SDMI (Sistemas digitais e microcontrolados)
 Os arquivos com a extensão `.xlsx` são atividades de tabela verdade feitos no exel e os `.DSN` são as respectivas portas lógicas feitas no software de simulação proteus (por exemplo o arquivo [Atividade 4.xlsx](https://github.com/samuelc254/Atividades-SENAI/blob/main/SDMI/Tabelas%20verdade/atividade%204.xlsx) é a tabela verdade do da [atividade 4.DSN](https://github.com/samuelc254/Atividades-SENAI/blob/main/SDMI/Portas%20L%C3%B3gicas/atividade%204.DSN))
   
 - ### Atividades portas lógicas
